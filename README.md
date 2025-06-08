@@ -1,1 +1,1 @@
-# processamento-imagens
+# digital-image-processing
